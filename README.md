@@ -1,4 +1,7 @@
 # boxcontrol
+
+Simple sketch for conrtolling powerline based on time of the day.
+
 Arduino IDE: https://www.arduino.cc/en/software
 
 
